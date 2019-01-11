@@ -1,2 +1,3 @@
 # hello-world
-repository tetorial
+# repository tutorial
+# This is my first reposity on GitHub.
