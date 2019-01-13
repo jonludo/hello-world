@@ -1,3 +1,1 @@
-# hello-world
-# repository tutorial
-# This is my first reposity on GitHub.
+# This is a basic hello-world repository 
